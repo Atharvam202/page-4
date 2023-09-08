@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Mukta&family=Noto+Sans&family=Roboto&family=Ubuntu&display=swap');
+.man img
+{
+    height: 550px;
+    width: 550px;
+    position: absolute;
+    left: -11px;
+    top: 34px;
+}
+.man
+{
+    display: flex;
+}
+body
+{
+    display: flex;
+}
+.man img:hover
+{
+    scale: 0.9;
+    scale: 1.1;
+    cursor: pointer;
+}
+.page
+{
+    display: flex;
+    
+}
+.header
+{
+    width: 655px;
+    position: absolute;
+    left: 480px;
+    top: 65px;
+    font-family: 'Roboto', sans-serif;
+}
+.header:hover
+{
+    color: #5642CE;
+    font-style: italic;
+    
+}
+.header2:hover
+{
+    color: #5642CE;
+    font-style: italic;
+}
+.header2
+{
+    width: 655px;
+    position: absolute;
+    left: 480px;
+    top: 105px;
+    font-family: 'Roboto', sans-serif;
+}
+.para
+{
+    width: 655px;
+    position: absolute;
+    left: 480px;
+    top: 190px;
+    font-family: 'Karla', sans-serif;
+}
